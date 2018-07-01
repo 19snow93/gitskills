@@ -1,2 +1,3 @@
 readme
-create a new branch is quick & simpleZZ
+create a new branch is quick and simple
+
